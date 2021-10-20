@@ -1,0 +1,3 @@
+"E:\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\split_merge_segmentation.dir/objects.a
+D:\Qt_lib\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\split_merge_segmentation.dir/objects.a @CMakeFiles\split_merge_segmentation.dir\objects1.rsp
+D:\Qt_lib\Tools\mingw810_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\split_merge_segmentation.dir/objects.a -Wl,--no-whole-archive -o split_merge_segmentation.exe -Wl,--out-implib,libsplit_merge_segmentation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\split_merge_segmentation.dir\linklibs.rsp

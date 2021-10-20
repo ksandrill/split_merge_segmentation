@@ -1,0 +1,4 @@
+E:/prog/clion_proj/split_merge_segmentation/cmake-build-release/CMakeFiles/split_merge_segmentation.dir
+E:/prog/clion_proj/split_merge_segmentation/cmake-build-release/CMakeFiles/edit_cache.dir
+E:/prog/clion_proj/split_merge_segmentation/cmake-build-release/CMakeFiles/rebuild_cache.dir
+E:/prog/clion_proj/split_merge_segmentation/cmake-build-release/CMakeFiles/split_merge_segmentation_autogen.dir
